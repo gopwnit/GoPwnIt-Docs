@@ -10,7 +10,7 @@
 
 ## 🔍 Overview
 
-Welcome to the official documentation repository for **GoPwnIt** — a cybersecurity learning and Capture The Flag (CTF) platform designed to build **practical security skills through hands-on challenges**.
+Welcome to the official documentation repository for **GoPwnIt** , a cybersecurity learning and Capture The Flag (CTF) platform designed to build **practical security skills through hands-on challenges**.
 
 This documentation serves as the **single source of truth** for understanding how GoPwnIt works, how to participate responsibly, and how to contribute to the ecosystem.
 
