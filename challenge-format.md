@@ -23,6 +23,12 @@ All challenge creators and contributors must follow these guidelines to ensure:
 
 Each challenge must follow the structure below:
 
+challenge-name/
+│── README.md
+│── solution/
+│ └── solve.md
+│── assets/
+│── docker/ (if applicable)
 
 ---
 
@@ -41,6 +47,7 @@ Every challenge **must include a `README.md`** containing:
 ---
 
 ## 🚩 Flag Format
+GOPWNIT{example_flag_here}
 
 - Flags must follow the standard format:
 
