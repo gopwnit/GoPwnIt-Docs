@@ -1,101 +1,101 @@
 <div align="center">
 
-# 🚀 Getting Started with GoPwnIt
+# 🛡️ GoPwnIt Documentation
 
-### Your first step into practical cybersecurity and CTFs
+### Official guides, rules, and standards for the GoPwnIt CTF platform
 
 </div>
 
 ---
 
-## 🔍 Introduction
+## 🔍 Overview
 
-This guide helps new users get started on **GoPwnIt**, from account creation to submitting your first flag.
+Welcome to the official documentation repository for **GoPwnIt** — a cybersecurity learning and Capture The Flag (CTF) platform designed to build **practical security skills through hands-on challenges**.
 
-No prior experience required.
-
----
-
-## 🧑‍💻 Create an Account
-
-1. Visit 👉 https://gopwnit.com  
-2. Sign up using your email  
-3. Verify your account  
-4. Complete your profile  
-
-Once registered, you can access active CTFs and challenges.
+This documentation serves as the **single source of truth** for understanding how GoPwnIt works, how to participate responsibly, and how to contribute to the ecosystem.
 
 ---
 
-## 🎯 Joining a CTF
+## 🚀 What is GoPwnIt?
 
-- Navigate to the **CTF Events** section  
-- Choose an active or upcoming CTF  
-- Join as:
-  - 👤 Solo player  
-  - 👥 Team (if allowed)  
+**GoPwnIt** is built for:
+- 🎓 Students and beginners entering cybersecurity  
+- 🧠 Security enthusiasts sharpening practical skills  
+- 🏆 Competitive players participating in CTF events  
+- 🏫 Colleges, clubs, and communities hosting CTFs  
 
-Some events may require an invite or registration approval.
-
----
-
-## 🧩 Solving Challenges
-
-Challenges are categorized by domain:
-- Web
-- Pwn
-- Crypto
-- Forensics
-- OSINT
-- Misc
-
-Each challenge includes:
-- Description
-- Difficulty level
-- Downloadable assets (if any)
+The platform focuses on **learning by doing**, combining real-world inspired challenges with competitive environments.
 
 ---
 
-## 🏁 Submitting Flags
+## 📚 What This Documentation Covers
 
-- Flags follow a fixed format (example: `GOPWNIT{...}`)  
-- Submit the correct flag to earn points  
-- Incorrect submissions may result in penalties  
+This repository includes detailed guides on:
 
----
+- Platform usage and workflows  
+- Getting started for new users  
+- CTF rules, ethics, and fair play  
+- Scoring systems and leaderboards  
+- Challenge creation standards  
+- Writeup publishing policies  
+- Community contribution guidelines  
+- Legal and ethical boundaries  
 
-## 🏆 Scoring & Leaderboards
-
-- Points are awarded per challenge  
-- Faster solves may rank higher  
-- Leaderboards update in real time  
-
-Refer to `scoring-system.md` for details.
-
----
-
-## ⚠️ Important Rules
-
-> 🛑 **Play Fair**
-
-- Do not share flags  
-- Do not attack the platform  
-- Do not exploit real-world systems  
-
-Violations may lead to disqualification or bans.
+Each topic is documented separately for clarity and easy navigation.
 
 ---
 
-## 🧠 Need Help?
+## 🧭 Documentation Index
 
-- Check the `faq.md`  
-- Read challenge hints carefully  
-- Reach out via official GoPwnIt channels  
+| 📄 Document | 📝 Purpose |
+|------------|------------|
+| `getting-started.md` | Onboarding and first steps |
+| `platform-overview.md` | Platform features and flow |
+| `ctf-rules.md` | Rules, ethics, and fair play |
+| `scoring-system.md` | Scoring logic and rankings |
+| `challenge-format.md` | Official challenge standards |
+| `writeups-policy.md` | Writeup publication rules |
+| `contributing.md` | How to contribute responsibly |
+| `faq.md` | Common questions |
+| `legal.md` | Legal and ethical disclaimer |
 
 ---
+
+## 🧠 Responsible & Ethical Use
+
+> ⚠️ **Educational Use Only**
+
+All content, challenges, and techniques discussed within GoPwnIt are intended **strictly for educational purposes**.
+
+Users must:
+- Practice only in authorized environments  
+- Follow fair play and platform rules  
+- Respect ethical and legal boundaries  
+
+GoPwnIt does **not** support illegal or unethical activities.
+
+---
+
+## 🤝 Community & Contributions
+
+GoPwnIt grows through its community.
+
+You can contribute by:
+- Improving documentation  
+- Submitting challenges  
+- Writing educational writeups  
+- Suggesting platform improvements  
+
+Please read `contributing.md` before making any contributions.
+
+---
+
+## 🌐 About GoPwnIt
 
 <div align="center">
 
 **Learn. Break. Understand. Repeat.**
+
+🔗 Website: https://gopwnit.com  
 
 </div>
