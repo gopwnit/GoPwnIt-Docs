@@ -1,89 +1,101 @@
 <div align="center">
 
-# 🛡️ GoPwnIt Documentation
+# 🚀 Getting Started with GoPwnIt
 
-### Official guides, rules, and standards for the GoPwnIt CTF platform
+### Your first step into practical cybersecurity and CTFs
 
 </div>
 
 ---
 
-## 🔍 Overview
+## 🔍 Introduction
 
-Welcome to the official documentation repository for **GoPwnIt** — a cybersecurity learning and Capture The Flag (CTF) platform built for **students, security enthusiasts, and professionals**.
+This guide helps new users get started on **GoPwnIt**, from account creation to submitting your first flag.
 
-This documentation helps you:
-- Understand how the platform works  
-- Participate responsibly in CTFs  
-- Contribute to the GoPwnIt ecosystem  
+No prior experience required.
 
 ---
 
-## 🚀 What is GoPwnIt?
+## 🧑‍💻 Create an Account
 
-**GoPwnIt** is designed to make cybersecurity **practical, competitive, and community-driven**.
+1. Visit 👉 https://gopwnit.com  
+2. Sign up using your email  
+3. Verify your account  
+4. Complete your profile  
 
-### Key Focus Areas
-- 🧪 Hands-on learning through CTF challenges  
-- 🏆 Competitive environments with fair scoring  
-- 🤝 Community collaboration and growth  
-- 🔐 Ethical and legal security practices  
-
----
-
-## 📚 Documentation Index
-
-| 📄 Document | 📝 Description |
-|------------|---------------|
-| `getting-started.md` | Start your journey with GoPwnIt |
-| `platform-overview.md` | Platform features and workflows |
-| `ctf-rules.md` | Rules, ethics, and fair play |
-| `scoring-system.md` | Points, penalties, and rankings |
-| `challenge-format.md` | Official challenge standards |
-| `writeups-policy.md` | Writeup publishing guidelines |
-| `contributing.md` | How to contribute |
-| `faq.md` | Common questions |
-| `legal.md` | Legal and ethical disclaimer |
+Once registered, you can access active CTFs and challenges.
 
 ---
 
-## ⚠️ Responsible Usage
+## 🎯 Joining a CTF
 
-> 🛑 **Educational Use Only**
+- Navigate to the **CTF Events** section  
+- Choose an active or upcoming CTF  
+- Join as:
+  - 👤 Solo player  
+  - 👥 Team (if allowed)  
 
-All techniques and content provided by GoPwnIt are intended **strictly for educational purposes**.
-
-✔ Allowed:
-- CTF competitions  
-- Practice labs  
-- Authorized systems  
-
-❌ Not Allowed:
-- Unauthorized testing  
-- Real-world exploitation  
-- Ethical or legal violations  
+Some events may require an invite or registration approval.
 
 ---
 
-## 🤝 Community & Contributions
+## 🧩 Solving Challenges
 
-We strongly encourage community participation.
+Challenges are categorized by domain:
+- Web
+- Pwn
+- Crypto
+- Forensics
+- OSINT
+- Misc
 
-You can contribute by:
-- ✍️ Improving documentation  
-- 🧩 Creating challenges  
-- 🧠 Sharing knowledge responsibly  
-
-Please read `contributing.md` before submitting changes.
+Each challenge includes:
+- Description
+- Difficulty level
+- Downloadable assets (if any)
 
 ---
 
-## 🌐 About GoPwnIt
+## 🏁 Submitting Flags
+
+- Flags follow a fixed format (example: `GOPWNIT{...}`)  
+- Submit the correct flag to earn points  
+- Incorrect submissions may result in penalties  
+
+---
+
+## 🏆 Scoring & Leaderboards
+
+- Points are awarded per challenge  
+- Faster solves may rank higher  
+- Leaderboards update in real time  
+
+Refer to `scoring-system.md` for details.
+
+---
+
+## ⚠️ Important Rules
+
+> 🛑 **Play Fair**
+
+- Do not share flags  
+- Do not attack the platform  
+- Do not exploit real-world systems  
+
+Violations may lead to disqualification or bans.
+
+---
+
+## 🧠 Need Help?
+
+- Check the `faq.md`  
+- Read challenge hints carefully  
+- Reach out via official GoPwnIt channels  
+
+---
 
 <div align="center">
 
 **Learn. Break. Understand. Repeat.**
-
-🔗 Website: https://gopwnit.com  
 
 </div>
